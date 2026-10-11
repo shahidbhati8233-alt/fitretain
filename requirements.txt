@@ -1,0 +1,1 @@
+# FitRetain uses only the Python standard library; no third-party packages are required.
